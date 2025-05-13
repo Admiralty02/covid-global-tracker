@@ -1,0 +1,1 @@
+# covid-global-tracker
